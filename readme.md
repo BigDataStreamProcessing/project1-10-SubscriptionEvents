@@ -105,7 +105,7 @@ Wyniki powinny zawierać następujące kolumny:
 - `price3` - cena trzeciego zdarzenia
 
 ## Zadanie 7
-Znajdź serie subskrypcji w tym samym serwisie, w których wiek osoby 
+Znajduj serie subskrypcji w tym samym serwisie, w których wiek osoby 
 kupującej rośnie przez 3 kolejne zdarzenia. 
 
 Wyniki powinny zawierać, następujące kolumny:
